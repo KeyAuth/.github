@@ -6,6 +6,4 @@ https://keyauth.cc
 
 Join our Discord for announcements and to message our ticket system bot about account issues/purchase inquiries https://discord.gg/keyauth
 
-Create a thread on our community site for issues with the client SDKs/examples https://community.keyauth.win
-
 View video tutorials at https://youtube.com/keyauth
