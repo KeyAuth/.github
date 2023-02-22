@@ -4,7 +4,7 @@ KeyAuth is an open-source authentication system with client SDKs for [C#](https:
 
 https://keyauth.cc
 
-Join our Discord for announcements and to message our ticket system bot about account issues/purchase inquiries https://discord.gg/---
+Join our Discord for announcements and to message our ticket system bot about account issues/purchase inquiries https://discord.gg/HjfhCe4eE2
 
 Discord Server banned?
 
