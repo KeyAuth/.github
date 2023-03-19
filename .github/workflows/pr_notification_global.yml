@@ -5,8 +5,6 @@ on:
     secrets:
       DISCORD_PR:
         required: true
-      ORG_GITHUB_TOKEN:
-        required: true
 
 jobs:
   notify:
