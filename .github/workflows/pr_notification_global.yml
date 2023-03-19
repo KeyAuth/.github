@@ -2,11 +2,10 @@ name: Global Pull Request Notification
 
 on:
   workflow_call:
-    inputs:
-      github-token:
-        required: true
     secrets:
       DISCORD_PR:
+        required: true
+      ORG_GITHUB_TOKEN:
         required: true
 
 jobs:
@@ -16,7 +15,7 @@ jobs:
       - name: PR Comment
         uses: actions/github-script@v5
         with:
-          github-token: ${{ inputs.github-token }}
+          github-token: ${{ secrets.ORG_GITHUB_TOKEN }}
           script: |
             const pr = context.payload.pull_request;
             const commentBody = "The KeyAuth owner has been notified of your pull request. Please wait for him to review it. This could take several days.";
