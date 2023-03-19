@@ -10,10 +10,29 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - name: PR Comment
+        uses: actions/github-script@v5
+        with:
+          github-token: ${{secrets.ORG_GITHUB_TOKEN}}
+          script: |
+            const pr = context.payload.pull_request;
+            const commentBody = "The KeyAuth owner has been notified of your pull request. Please wait for him to review it. This could take several days.";
+            await github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: pr.number,
+              body: commentBody
+            });
+
       - name: Discord Notification
         env:
           DISCORD_WEBHOOK: ${{ secrets.DISCORD_PR }}
         run: |
+          if [ -z "$DISCORD_WEBHOOK" ]
+          then
+            echo "DISCORD_WEBHOOK secret not found"
+            exit 1
+          fi
           curl -H "Content-Type: application/json" -X POST -d '{
             "content": "<@1078050144869695578> someone made a pull request",
             "embeds": [
@@ -24,4 +43,4 @@ jobs:
                 "color": 3066993
               }
             ]
-          }' $DISCORD_WEBHOOK
+          }' "$DISCORD_WEBHOOK"
