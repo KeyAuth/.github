@@ -1,14 +1,14 @@
-name: Pull Request Notification
+name: Global Pull Request Notification
 
 on:
-  pull_request_target:
-    types:
-      - opened
+  workflow_call:
+    secrets:
+      DISCORD_PR:
+        required: true
 
 jobs:
   notify:
     runs-on: ubuntu-latest
-
     steps:
       - name: Discord Notification
         env:
