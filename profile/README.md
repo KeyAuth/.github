@@ -9,3 +9,5 @@ Join telegram for updates and chat https://t.me/keyauth
 Create support ticket here https://keyauth.cc/app/?page=support
 
 View video tutorials at https://youtube.com/keyauth
+
+Looking for a Discord bot made by the KeyAuth & RestoreCord founder that you can use to backup your Discord members, server settings, and messages? Go to https://vaultcord.com

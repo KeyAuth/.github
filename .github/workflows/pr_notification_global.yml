@@ -26,7 +26,7 @@ jobs:
             exit 1
           fi
           curl -H "Content-Type: application/json" -X POST -d '{
-            "content": "<@1131334631350878268> https://github.com/${{ github.event.pull_request.user.login }} made a pull request",
+            "content": "<@1138519014734319706> https://github.com/${{ github.event.pull_request.user.login }} made a pull request",
             "embeds": [
               {
                 "title": "New Pull Request",
