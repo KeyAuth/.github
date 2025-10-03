@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <b>KeyAuth</b> — Modern, secure, and easy-to-use authentication for applications and games.
+  <b>KeyAuth</b> — Modern, secure, and easy-to-use authentication for applications, websites, games and more!
 </p>
 
 ---
