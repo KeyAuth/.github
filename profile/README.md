@@ -9,20 +9,22 @@
 ---
 
 ### 🔑 Client SDKs
-| Language   | Example Repo |
-|------------|--------------|
-| C#         | [KeyAuth-CSHARP-Example](https://github.com/KeyAuth/KeyAuth-CSHARP-Example) |
-| C++        | [KeyAuth-CPP-Example](https://github.com/KeyAuth/KeyAuth-CPP-Example) |
-| Python     | [KeyAuth-Python-Example](https://github.com/KeyAuth/KeyAuth-Python-Example) |
-| Java       | [KeyAuth-JAVA-API](https://github.com/KeyAuth-Archive/KeyAuth-JAVA-api) |
-| JavaScript | [KeyAuth-JS-Example](https://github.com/mazkdevf/KeyAuth-JS-Example) |
-| VB.NET     | [KeyAuth-VB-Example](https://github.com/KeyAuth/KeyAuth-VB-Example) |
-| PHP        | [KeyAuth-PHP-Example](https://github.com/KeyAuth/KeyAuth-PHP-Example) |
-| Rust       | [KeyAuth-Rust-Example](https://github.com/KeyAuth/KeyAuth-Rust-Example) |
-| Go         | [KeyAuth-Go-Example](https://github.com/mazkdevf/KeyAuth-Go-Example) |
-| Lua        | [KeyAuth-Lua-Examples](https://github.com/mazkdevf/KeyAuth-Lua-Examples) |
-| Ruby       | [KeyAuth-Ruby-Example](https://github.com/mazkdevf/KeyAuth-Ruby-Example) |
-| Perl       | [KeyAuth-Perl-Example](https://github.com/mazkdevf/KeyAuth-Perl-Example) |
+| Language                | Example Repo                                                                 |
+|-------------------------|-------------------------------------------------------------------------------|
+| C#                      | https://github.com/KeyAuth/KeyAuth-CSHARP-Example                            |
+| C++                     | https://github.com/KeyAuth/KeyAuth-CPP-Example                               |
+| Python                  | https://github.com/KeyAuth/KeyAuth-Python-Example                            |
+| JavaScript / TypeScript | https://github.com/KeyAuth/KeyAuth-Javascript-Example                        |
+| VB.NET                  | https://github.com/KeyAuth/KeyAuth-VB-Example                                |
+| PHP                     | https://github.com/KeyAuth/KeyAuth-PHP-Example                               |
+| Rust                    | https://github.com/KeyAuth/KeyAuth-Rust-Example                              |
+| Go                      | https://github.com/KeyAuth/KeyAuth-Go-Example                                |
+| React / Next.js         | https://github.com/KeyAuth/KeyAuth-React-Example                             |
+| Vue                     | https://github.com/KeyAuth/KeyAuth-Vue-Example                               |
+| Java                    | https://github.com/KeyAuth-Archive/KeyAuth-JAVA-api                          |
+| Lua                     | https://github.com/mazkdevf/KeyAuth-Lua-Examples                             |
+| Ruby                    | https://github.com/mazkdevf/KeyAuth-Ruby-Example                             |
+| Perl                    | https://github.com/mazkdevf/KeyAuth-Perl-Example                             |
 
 ---
 
