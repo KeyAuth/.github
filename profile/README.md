@@ -23,6 +23,8 @@
 | Lua        | [KeyAuth-Lua-Examples](https://github.com/mazkdevf/KeyAuth-Lua-Examples) |
 | Ruby       | [KeyAuth-Ruby-Example](https://github.com/mazkdevf/KeyAuth-Ruby-Example) |
 | Perl       | [KeyAuth-Perl-Example](https://github.com/mazkdevf/KeyAuth-Perl-Example) |
+| React      | [KeyAuth-React-Example](https://github.com/KeyAuth/KeyAuth-React-Example)|
+| Vue        | [KeyAuth-Vue-Example](https://github.com/KeyAuth/KeyAuth-Vue-Example)    |
 
 ---
 
