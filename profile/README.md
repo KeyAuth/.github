@@ -8,7 +8,12 @@
 
 ---
 
+<table>
+<tr>
+<td valign="top">
+
 ### 🔑 Client SDKs
+
 | Language   | Example Repo |
 |------------|--------------|
 | C#         | [KeyAuth-CSHARP-Example](https://github.com/KeyAuth/KeyAuth-CSHARP-Example) |
@@ -25,15 +30,23 @@
 | Lua        | [KeyAuth-Lua-Examples](https://github.com/mazkdevf/KeyAuth-Lua-Examples) |
 | Ruby       | [KeyAuth-Ruby-Example](https://github.com/mazkdevf/KeyAuth-Ruby-Example) |
 | Perl       | [KeyAuth-Perl-Example](https://github.com/mazkdevf/KeyAuth-Perl-Example) |
-| React      | [KeyAuth-React-Example](https://github.com/KeyAuth/KeyAuth-React-Example)|
-| Vue        | [KeyAuth-Vue-Example](https://github.com/KeyAuth/KeyAuth-Vue-Example)    |
+| React      | [KeyAuth-React-Example](https://github.com/KeyAuth/KeyAuth-React-Example) |
+| Vue        | [KeyAuth-Vue-Example](https://github.com/KeyAuth/KeyAuth-Vue-Example) |
 | Unity      | [KeyAuth-Unity-Example](https://github.com/KeyAuth/KeyAuth-Unity-Example) |
 
-### Bots
-| Platform     | Bot Repo  |
-|--------------|-----------|
-| Discord      | [KeyAuth-Discord-Bot](https://github.com/KeyAuth/KeyAuth-Discord-Bot) |
-| Telegram     | [KeyAuth-Telegram-Bot](https://github.com/KeyAuth/KeyAuth-Telegram-Bot) |
+</td>
+<td valign="top">
+
+### 🤖 Bots
+
+| Platform | Bot Repo |
+|----------|----------|
+| Discord  | [KeyAuth-Discord-Bot](https://github.com/KeyAuth/KeyAuth-Discord-Bot) |
+| Telegram | [KeyAuth-Telegram-Bot](https://github.com/KeyAuth/KeyAuth-Telegram-Bot) |
+
+</td>
+</tr>
+</table>
 
 ---
 
